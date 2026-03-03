@@ -67,7 +67,7 @@ Lyxiong-portfolio/
 You can view the live portfolio here:
 
 ```
-https://your-github-username.github.io/portfolio
+https://xiongll66.github.io/lyxiong.github.io/
 ```
 
 ---
