@@ -227,6 +227,27 @@ body {
   .header-grid {
     grid-template-columns: 1fr; /* stack */
   }
+
+  .hamburger {
+    display: block;
+    cursor: pointer;
+  }
+
+  .nav-menu {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 80px;
+    right: 0;
+    background: var(--bg-primary);
+    width: 100%;
+    text-align: center;
+    box-shadow: var(--shadow);
+  }
+
+  .nav-menu.active {
+    display: flex;
+  }
 }
 
 .profile-avatar {
