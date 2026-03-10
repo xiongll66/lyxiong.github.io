@@ -116,6 +116,7 @@ h2::selection {
 
 /* Project cards */
 .card {
+  position: relative;   /* ADD THIS */
   padding: 1rem;
   background: var(--card-background);
   color: #ffffff;
